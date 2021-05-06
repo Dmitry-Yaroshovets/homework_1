@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.header-logo-link {
+  margin-left: 215px;
+}
+.header-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.header-item {
+  margin-right: 50px;
+}
+.header-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.header-mail-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.header-mail-item {
+  margin-right: 50px;
+}
