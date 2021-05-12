@@ -251,13 +251,12 @@ header-mail-link:active {
 
 /*footer start*/
 .footer {
-  background: #2f303a;
-}
-.footer-wrapper {
+  background: #2F303A;
   padding-left: 215px;
   padding-top: 60px;
-}
+
 .footer-logo-link {
+  
   text-decoration: none;
 }
 
